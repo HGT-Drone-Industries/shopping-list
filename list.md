@@ -1,4 +1,4 @@
-- 2x Arduino Nano
+- [Arduino Pro Mini](https://www.amazon.de/-/en/Atmega-16MHz-FT232RL-Serial-Converter/dp/B07MJCN9VB?crid=Q2DICNPIFJQB&dib=eyJ2IjoiMSJ9.YXWndeKpNA3-SDG_n6xSENJkHWPVLDbKhfJ0KXl6P7LMoTXSYXu2u-lazs6s42bvHG3f64lMdB6fNTFbjWkovz7dV7UzKJHWnb1neIRXGQH6f6FjfeUvXkynWc0ZTgax1zuC19QMgSruaS8XmpglAlUhrnG_9j5r0eM23HeS1LSaJ0r6Hme0AoTyJ1JKt3lgrK6EyQN7mLXv4ipdLCHFBIlfNazBjo8hSxh8Z_0ea9o.EX09gm1781XJM18Z_cFn8TBPZeBA4UFies8gwEtejUE&dib_tag=se&keywords=arduino+pro+mini+5v&qid=1761402001&sprefix=arduino+pro+mini+5vb%2Caps%2C76&sr=8-5)
 - 2x Esp32
 
 [Diodes](https://www.amazon.de/-/en/pieces-1N4148-signal-switching-diodes/dp/B0D7PRHDK7?crid=2PMCXDWGO1PSD&dib=eyJ2IjoiMSJ9.uDucQHeQLCiU5_dk8JunkpBmvByeaId2t5-Y7dVsIll3V0Kway_Y8A41ttpJ4n5UukZtvjEgmB3bv-O-Z8CSt36qqLkLQy5RqSpZgzJVPOnMW4zbF2NTfIxs_BzHledu5-mBmT8qcNGhH4eNsZH9PxtcfP2zKkEvkPuqH7A9-RVa29TD9JzRaZpbwqfmx81M5AOSmGEr5HMO2gRD8nq3SRjutw_SGxnYQ81okMn98_eUbkIdgb4pNfLH1VFsNkn6xHFJQhnsbUdtZl1kv8jW8JoXSvLDvin-fsdtgG7T62k.lwgyGlsIFVWgSRefI2pab-teOxhtNK-htUh6dBWqHgU&dib_tag=se&keywords=diode&qid=1761395607&sprefix=diode%2Caps%2C110&sr=8-8)
