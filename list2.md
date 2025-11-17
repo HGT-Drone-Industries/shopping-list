@@ -1,0 +1,1 @@
+- [Coreless motor 1mm shaft](https://www.amazon.de/-/en/Coreless-Motor-Pieces-55000RPM-Quadcopter/dp/B0BBRL3178)
